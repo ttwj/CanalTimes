@@ -1,0 +1,10 @@
+Package: com.lol.canaltimes
+Name: CanalTimes
+Depends: mobilesubstrate
+Version: 1.0-2
+Architecture: iphoneos-arm
+Description: Get free Straits Times issues
+Maintainer: ttwj
+Author: ttwj
+Section: Tweaks
+Installed-Size: 20
