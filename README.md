@@ -1,7 +1,7 @@
 CanalTimes
 ==========
 
-"bypasser" for Straits Times app
+This was a "bypasser" for Straits Times app that enabled users to read the articles for free (they did not implement any authentication/verification on backend) Works by using runtime injection into the Straits Times application on iOS. 
 
 Compiling
 ===========
